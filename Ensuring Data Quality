@@ -1,0 +1,3 @@
+During development, data engineers should write unit tests for code validation. In production, "dbt test" can ensure data quality for key tables/models. 
+
+To prevent bad data entry, a proactive strategy is essential. Cosmos, a library integrated into Airflow pipelines, offers a robust solution: https://www.astronomer.io/cosmos/
